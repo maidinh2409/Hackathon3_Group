@@ -3,11 +3,11 @@
 ## Team Members
 - **Nguyen Mai Dinh Le (Demi Le)** – Data Analyst & Visualization Engineer  
 - **Nichanun Pongpattarawit (Luck)** – Software Enginner  
-- **Sotheng Chheang** Software Enginner  
+- **Sotheng Chheang** - Software Enginner  
 
 ---
 
-## Project Overview (300 words)
+## Project Overview
 
 This project explores public perceptions of Artificial Intelligence (AI) in British Columbia through a comprehensive analysis of survey responses from over 900 residents. Our goal is to uncover how age, location, and personal experience shape attitudes toward AI, and to inform ethical, inclusive policy development. By combining quantitative analysis with qualitative insights from responses, we reveal key patterns in public sentiment, concerns, and hopes for AI’s future.
 
@@ -19,7 +19,7 @@ Our analysis underscores the need for targeted AI literacy programs, inclusive p
 
 ---
 
-## Tech Notes (300 words)
+## Tech Notes
 
 This project leverages Python’s data science stack to analyze structured and unstructured survey data. The dataset, collected via an online form, includes demographic variables (age, location, AI experience), multiple-choice responses, and open-ended text inputs. We used `pandas` for data cleaning, transformation, and aggregation, ensuring consistency across categorical variables like AI experience and sentiment labels.
 
@@ -30,3 +30,5 @@ For sentiment analysis, we used precomputed sentiment scores (ranging 0–1) fro
 We conducted cross-tabulations to examine AI experience by age group and sentiment by location, revealing that non-users and rural respondents are more likely to express negative views. All visualizations were designed for clarity and storytelling, aligning with narrative insights from character-driven analysis (Demi, Luck, and Prof. Kris).
 
 The code is modular and reproducible, supporting future extensions such as predictive modeling of sentiment or integration with geospatial data. This project demonstrates how mixed-method analysis can turn survey data into actionable public policy insights.
+
+Tools used: Python • JupyterNoteBook • OpenAI GPT • Canva •
