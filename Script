@@ -1,0 +1,35 @@
+Scene 1: Student Survey Analysis
+
+01_Demi: Luck—check this: 30% of 18–34-year-olds use AI regularly. Only 10% over 55 do. That’s a big gap since young people use AI in school and social media, they’ll drive its growth in our community.
+02_Luck: I also made the comparison of Urban and rural, only 5.2% of rural respondents have no AI experience. Places like Kelowna or Prince George are being left behind in the AI wave.
+03_Demi: Yeah, it’s not just access—attitudes too. 45% older people think AI eliminates more jobs than it creates. Most say jobs will just change, not disappear.
+04_Luck: It makes sense. Older workers may see AI as a threat, especially near retirement. Since young people grew up with tech.
+05_Demi: Exactly, we can see that only 25% of young adults are mostly concerned about AI’s impact, but 45% of older adults fear job loss. There’s real fear of being left behind.
+06_Luck: And it’s not just age—location matters too. Half of the respondents fear AI will eliminate jobs. One 64-year-old from Kelowna said, “AI will take jobs and hurt the environment.” It’s a double worry—economic and ecological.
+07_Demi: So here’s what I’m wondering: Are young people, being tech-native, more worried about misinformation than job loss?
+08_Luck: Good question. Let’s take that to Prof. Kris. He might see something that we’re missing.
+09_Demi: Agreed. Let’s go now.
+
+
+Scene 2: Professor Kris’s Office, UBC
+
+01_Professor Kris: Hello, welcome to my office! Demi, Luck, what can I help you with today?
+02_Demi: Hey, Kris! We’re currently working on the BC AI survey. It seems that 30% of young people are tech-savvy and use AI regularly, but worry less about jobs. Are their concerns more about misinformation?
+03_Prof. Kris: I pull out key insights from my analysis: 
+    - 25% mentioned “job loss” while only 15% cited “misinformation” related to deepfakes, fake news
+    - We can see that only 20% of youth concerns were about misinformation. 
+04_Luck: So, youth care more about truth than jobs? That’s wild.
+05_Prof. Kris: Exactly. A comment like “AI’s spreading fake news” scores 10% higher than a comment of “Jobs are gone, my career is over”.
+06_Demi: Totally, makes sense. They’ve seen fake content a lot via social media. They’re not as afraid of being replaced. They’re afraid of the world being misled. 
+07_Luck: Another point, what about public opinion overall? Any clear pattern?
+08_Prof. Kris: Yes. What I observe is 70% of non-AI users gave negative advice like “Stop AI” and “Don’t trust tech”, while only 13% are Positive that focused on “Use AI in healthcare” and “Teach it in schools.”. 
+09_Luck: So, experience reduces fear.
+10_Prof. Kris: Exactly. Right now, People aren’t saying “Don’t build AI”. And you can see the 13% positive group. They’re the future innovators, educators. Their vision is scalable, but only if we close the trust gap.
+11_Luck: Which means we can’t just roll out AI, we also have to roll it out with people.
+12_Prof. Kris: Yes. With AI literacy, rural outreach, and inclusive design. The data shows division today, but a path to unity tomorrow.
+13_Demi: So, where do we go from here?
+14_Prof. Kris: We could dig deeper into age, location, and experience to predict public sentiment in action.
+15_Luck: Okay, we will start building the sentiment prediction model.
+16_Demi: For me, I’ll map how people’s advice differs based on who they are and their reasons.
+17_Prof. Kris: Perfect. Because in the end, data doesn’t speak for itself. It’s our job to give it voice.We could dig deeper into age, location, and experience to predict public sentiment in action.
+18_Demi & Luck: Thanks, Professor Kris!
