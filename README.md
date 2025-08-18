@@ -6,7 +6,9 @@
 - **Sotheng Chheang** - Software Enginner  
 
 ---
-
+YouTube: https://www.youtube.com/watch?v=dA8E4Uj_0RY
+Comic book: https://heyzine.com/flip-book/2a55214c04.html
+---
 ## Project Overview
 
 This project explores public perceptions of Artificial Intelligence (AI) in British Columbia through a comprehensive analysis of survey responses from over 900 residents. Our goal is to uncover how age, location, and personal experience shape attitudes toward AI, and to inform ethical, inclusive policy development. By combining quantitative analysis with qualitative insights from responses, we reveal key patterns in public sentiment, concerns, and hopes for AI’s future.
