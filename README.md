@@ -60,7 +60,6 @@ This project combines data science, visualization, and multimedia storytelling t
 
 #### 2. Visualization and Media Assets
 - Generated illustrations and images with **ChatGPT image tools**.  
-- Designed supporting visuals in **Canva**.  
 
 #### 3. Audio and Video Production
 - Created AI voiceovers with **CapCut**.  
