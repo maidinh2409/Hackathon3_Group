@@ -1,4 +1,4 @@
-# BC AI Public Hackathon3_Group
+# BC AI Public Hackathon 3: Sea Group
 
 ## Team Members
 - **Nguyen Mai Dinh Le (Demi Le)** – Data Analyst & Visualization Engineer  
@@ -25,17 +25,17 @@ This project combines data science, visualization, and multimedia storytelling t
 
 ---
 
-## Data Analysis Workflow
+### Data Analysis Workflow
 
-### 1. Survey Data Collection
+#### 1. Survey Data Collection
 - Dataset includes demographics (age, location, AI experience), multiple-choice responses, and open-ended text inputs.
 
-### 2. Data Cleaning and Transformation
+#### 2. Data Cleaning and Transformation
 - Preprocessing with **pandas**.  
 - Standardized categorical variables (AI experience, sentiment labels).  
 - Shortened long-form responses by extracting text before dashes in labels.  
 
-### 3. Sentiment Analysis
+#### 3. Sentiment Analysis
 - Used precomputed sentiment scores (0–1).  
 - Categories:  
   - Negative: 0–0.4  
@@ -43,7 +43,7 @@ This project combines data science, visualization, and multimedia storytelling t
   - Positive: 0.6–1.0  
 - Validated with keyword-based thematic tagging (regex on terms like *“job loss”* and *“fake news”*).  
 
-### 4. Visualization
+#### 4. Visualization
 - Built **bar charts, pie charts, and heatmaps** with matplotlib and seaborn.  
 - Supplemented with **Tableau dashboards** for interactive storytelling.  
 - Cross-tabulated results (e.g., AI experience × age group, sentiment × location).  
@@ -51,29 +51,29 @@ This project combines data science, visualization, and multimedia storytelling t
 
 ---
 
-## Comic Book Creation Workflow
+### Comic Book Creation Workflow
 
-### 1. Data-to-Story Translation
+#### 1. Data-to-Story Translation
 - Selected key insights from analysis.  
 - Drafted a script with characters (Demi, Luck, Prof. Kris).  
 - Refined dialogue using **ChatGPT**.  
 
-### 2. Visualization and Media Assets
+#### 2. Visualization and Media Assets
 - Generated illustrations and images with **ChatGPT image tools**.  
 - Designed supporting visuals in **Canva**.  
 
-### 3. Audio and Video Production
+#### 3. Audio and Video Production
 - Created AI voiceovers with **CapCut**.  
 - Combined narration and visuals in **iMovie**.  
 
-### 4. Publishing Formats
+#### 4. Publishing Formats
 - Uploaded video to **YouTube**.  
 - Published flipbook version on **Heyzine**.  
 - Shared outputs as both video and digital comic book.  
 
 ---
 
-## Tools Used
+### Tools Used
 - **Python** (pandas, matplotlib, seaborn)  
 - **Tableau**  
 - **Jupyter Notebook**  
@@ -84,7 +84,7 @@ This project combines data science, visualization, and multimedia storytelling t
 
 ---
 
-## Key Takeaway
+### Key Takeaway
 This project demonstrates how mixed-method analysis and storytelling can transform survey data into **actionable and accessible multimedia formats**. It bridges technical analysis with creative communication, making complex AI issues understandable to a wider audience.
 
 
