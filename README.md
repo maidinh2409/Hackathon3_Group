@@ -6,8 +6,9 @@
 - **Sotheng Chheang** - Software Enginner  
 
 ---
-**YouTube**: https://www.youtube.com/watch?v=dA8E4Uj_0RY
-**Comic book**: https://heyzine.com/flip-book/2a55214c04.html
+
+#### Comic book: https://heyzine.com/flip-book/2a55214c04.html
+#### YouTube: https://www.youtube.com/watch?v=dA8E4Uj_0RY
 ---
 ## Project Overview
 
