@@ -21,14 +21,70 @@ Our analysis underscores the need for targeted AI literacy programs, inclusive p
 
 ## Tech Notes
 
-This project leverages Python’s data science stack to analyze structured and unstructured survey data. The dataset, collected via an online form, includes demographic variables (age, location, AI experience), multiple-choice responses, and open-ended text inputs. We used `pandas` for data cleaning, transformation, and aggregation, ensuring consistency across categorical variables like AI experience and sentiment labels.
+This project combines data science, visualization, and multimedia storytelling to analyze survey data on AI adoption in British Columbia and transform insights into an engaging comic-style narrative.
 
-A key preprocessing step was shortening long-form AI experience labels (e.g., "Occasional user – I’ve tried a few tools...") by extracting text before the dash using string splitting. 
+---
 
-For sentiment analysis, we used precomputed sentiment scores (ranging 0–1) from the dataset, categorized into Negative (0–0.4), Neutral (0.4–0.6), and Positive (0.6–1.0). These were validated against keyword-based thematic tagging (e.g., “job loss”, “fake news”) using regex matching. Visualization was performed with `matplotlib` and `seaborn`, generating bar charts, pie charts, and heatmaps to illustrate disparities in AI adoption and concern across demographics.
+## Data Analysis Workflow
 
-We conducted cross-tabulations to examine AI experience by age group and sentiment by location, revealing that non-users and rural respondents are more likely to express negative views. All visualizations were designed for clarity and storytelling, aligning with narrative insights from character-driven analysis (Demi, Luck, and Prof. Kris).
+### 1. Survey Data Collection
+- Dataset includes demographics (age, location, AI experience), multiple-choice responses, and open-ended text inputs.
 
-The code is modular and reproducible, supporting future extensions such as predictive modeling of sentiment or integration with geospatial data. This project demonstrates how mixed-method analysis can turn survey data into actionable public policy insights.
+### 2. Data Cleaning and Transformation
+- Preprocessing with **pandas**.  
+- Standardized categorical variables (AI experience, sentiment labels).  
+- Shortened long-form responses by extracting text before dashes in labels.  
 
-Tools used: Python • JupyterNoteBook • OpenAI GPT • Canva •
+### 3. Sentiment Analysis
+- Used precomputed sentiment scores (0–1).  
+- Categories:  
+  - Negative: 0–0.4  
+  - Neutral: 0.4–0.6  
+  - Positive: 0.6–1.0  
+- Validated with keyword-based thematic tagging (regex on terms like *“job loss”* and *“fake news”*).  
+
+### 4. Visualization
+- Built **bar charts, pie charts, and heatmaps** with matplotlib and seaborn.  
+- Supplemented with **Tableau dashboards** for interactive storytelling.  
+- Cross-tabulated results (e.g., AI experience × age group, sentiment × location).  
+- Key finding: Non-users and rural respondents expressed more negative views.  
+
+---
+
+## Comic Book Creation Workflow
+
+### 1. Data-to-Story Translation
+- Selected key insights from analysis.  
+- Drafted a script with characters (Demi, Luck, Prof. Kris).  
+- Refined dialogue using **ChatGPT**.  
+
+### 2. Visualization and Media Assets
+- Generated illustrations and images with **ChatGPT image tools**.  
+- Designed supporting visuals in **Canva**.  
+
+### 3. Audio and Video Production
+- Created AI voiceovers with **CapCut**.  
+- Combined narration and visuals in **iMovie**.  
+
+### 4. Publishing Formats
+- Uploaded video to **YouTube**.  
+- Published flipbook version on **Heyzine**.  
+- Shared outputs as both video and digital comic book.  
+
+---
+
+## Tools Used
+- **Python** (pandas, matplotlib, seaborn)  
+- **Tableau**  
+- **Jupyter Notebook**  
+- **OpenAI GPT**  
+- **CapCut**  
+- **Heyzine**  
+- **iMovie**  
+
+---
+
+## Key Takeaway
+This project demonstrates how mixed-method analysis and storytelling can transform survey data into **actionable and accessible multimedia formats**. It bridges technical analysis with creative communication, making complex AI issues understandable to a wider audience.
+
+
